@@ -1,0 +1,10 @@
+.body {
+    display: block;
+}
+
+.needToLearn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
